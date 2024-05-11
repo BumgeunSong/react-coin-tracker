@@ -10,6 +10,7 @@
     "@types/node": "^16.18.89",
     "@types/react": "^18.2.66",
     "apexcharts": "^3.49.0",
+    "gh-pages": "^6.1.1",
     "localforage": "^1.10.0",
     "match-sorter": "^6.3.4",
     "react": "^18.3.1",
@@ -53,5 +54,5 @@
   "devDependencies": {
     "@types/styled-components": "^5.1.34"
   },
-  "homepage": "https://bumgeunsong.github.io/React.practice"
+  "homepage": "https://bumgeunsong.github.io/react-coin-tracker"
 }

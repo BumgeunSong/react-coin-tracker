@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react-coin-tracker/static/js/main.02c00c2d.js",
-    "index.html": "/react-coin-tracker/index.html",
-    "main.02c00c2d.js.map": "/react-coin-tracker/static/js/main.02c00c2d.js.map"
+    "main.js": "/coins/static/js/main.0839dc11.js",
+    "index.html": "/coins/index.html",
+    "main.0839dc11.js.map": "/coins/static/js/main.0839dc11.js.map"
   },
   "entrypoints": [
-    "static/js/main.02c00c2d.js"
+    "static/js/main.0839dc11.js"
   ]
 }
